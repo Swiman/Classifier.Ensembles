@@ -1,5 +1,5 @@
 # Classifier Ensembles
-[Algos.py]() Contains pyython Implementation of (Smote, ADA, RUS, RB)Boost 
-### Performance of methods is comapired with SVM and RandomFores.
-##Evalution Metrics: 
+[Algos.py]() Contains python Implementation of (Smote, ADA, RUS, RB)Boost 
+### Performance of methods is comapired with SVM and RandomForest.
+## Evalution Metrics: 
 >>Precision, Recall
