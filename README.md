@@ -4,6 +4,6 @@
 * ADABoost.M2 [paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.29.3868)
 * RUSBoost [paper](https://ieeexplore.ieee.org/document/5299216/)
 * RBBoost [paper](https://dl.acm.org/doi/abs/10.1016/j.knosys.2019.105434)
-### Performance of methods is comapired with SVM and RandomForest.
+
 ## Evalution Metrics: 
 >>Precision, Recall
